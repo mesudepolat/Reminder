@@ -1,0 +1,33 @@
+﻿@model Reminder.Service.Models.ActivityDTO
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Yeni Etkinlik Ekle</h1>
+
+<h4>Etkinlik</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Save">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <partial name="_ActivityCE.cshtml" />
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Etkinlik Ekle" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Listeye Dön</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
