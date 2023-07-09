@@ -1,6 +1,6 @@
 # Reminder
 
- Projeye ait ekran görüntüleri aşağıdadır.
+Tüm CRUD işlemleri çalışıyor. Temel isterler yapıldı. Toastr eklendi. Giriş ekranı ve session özelliği vardır. .NET CORE 7 ve RAZOR View lar ile yapıldı. Projeye ait ekran görüntüleri aşağıdadır.
  
 ## Proje mimarisi
 
@@ -38,6 +38,11 @@
 ### Etkinlik silme
 
 ![7](https://github.com/mesudepolat/Reminder/assets/61362079/f293cadb-5d64-4079-bd89-a8192659d80c)
+
+
+## Kategoriler
+
+![13](https://github.com/mesudepolat/Reminder/assets/61362079/cb97685e-57c9-4aec-a5fe-1ae1bf8208d2)
 
 
 ## Database işlemleri
