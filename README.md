@@ -1,6 +1,10 @@
 # Reminder
 
  Projeye ait ekran görüntüleri aşağıdadır.
+ 
+## Proje mimarisi
+
+![12](https://github.com/mesudepolat/Reminder/assets/61362079/9f8335dd-76bf-4d07-a24d-c6590a7130b7)
 
 ## Ana Sayfa
 
@@ -50,7 +54,5 @@
 ![11](https://github.com/mesudepolat/Reminder/assets/61362079/8e5469b9-6ca4-481e-8ff1-41a096e6c9b3)
 
 
-## Proje dosya 
 
-![12](https://github.com/mesudepolat/Reminder/assets/61362079/9f8335dd-76bf-4d07-a24d-c6590a7130b7)
 
