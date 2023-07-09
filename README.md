@@ -31,7 +31,14 @@
 ![6](https://github.com/mesudepolat/Reminder/assets/61362079/9ab52f87-c9fb-425b-a53e-a19c1a2742e7)
 
 
+### Etkinlik silme
 
+![7](https://github.com/mesudepolat/Reminder/assets/61362079/f293cadb-5d64-4079-bd89-a8192659d80c)
+
+
+## Database 
+
+![8](https://github.com/mesudepolat/Reminder/assets/61362079/3fd4f76c-e71b-408c-84b9-e10e7604b139)
 
 
 
