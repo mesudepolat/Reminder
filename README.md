@@ -1,6 +1,6 @@
 # Reminder
 
-## Projeye ait ekran görüntüleri aşağıdadır.
+ Projeye ait ekran görüntüleri aşağıdadır.
 
 ### Ana Sayfa
 
