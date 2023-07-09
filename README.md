@@ -41,4 +41,13 @@
 ![8](https://github.com/mesudepolat/Reminder/assets/61362079/3fd4f76c-e71b-408c-84b9-e10e7604b139)
 
 
+![9](https://github.com/mesudepolat/Reminder/assets/61362079/b02468d8-7770-43ed-bb47-f92dca23e914)
+
+
+![10](https://github.com/mesudepolat/Reminder/assets/61362079/1d135fad-d744-41d4-853f-d4d8ff1d229d)
+
+
+![11](https://github.com/mesudepolat/Reminder/assets/61362079/8e5469b9-6ca4-481e-8ff1-41a096e6c9b3)
+
+
 
